@@ -1,4 +1,4 @@
-<?php
+ff<?php
 	
 $base->name = 'fortrader';
 $base->host = '192.168.1.4';
